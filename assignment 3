@@ -1,0 +1,32 @@
+<script type="text/javascript">
+    var aFunc = function()
+    {
+    // var aExample = "JavaScript";
+    // var aVariableOut = aExample.charAt(3);//index based 0 ---->
+    // alert("Example of charAt " + aVariableOut);
+ 
+    // var bExampleCancat1 = "Java";
+    // var bExampleCancat2 = "Script";
+    // var bExampleCancat3 = ":CSC102";
+    // var bVariableOut = bExampleCancat1.concat(bExampleCancat2 + bExampleCancat3);
+    // alert("Example of concat " + bVariableOut);
+ 
+    // var cExample = "JavaScript";
+   //  var cVariableOut = cExample.indexOf("a");
+   //  var cVariableOut2 = cExample.indexOf("a",2);
+    // alert("Example of indexOf 1: " + cVariableOut);
+    // alert("Example of indexOf 2: " + cVariableOut2);
+    
+    // var dExample = "JavaScript";
+    // var dVariableOut = dExample.substring(0,10);//0 - 10 = 10 JavaScript start end 
+     //var dVariableOut2 = dExample.indexOf(0);
+    // alert("Example of substring 1: " + dVariableOut);
+     
+     //var eExample = "JavaScript";
+     //var eVariableOut = eExample.toLowerCase();
+    //var eVariableOut2 = eExample.toUpperCase();
+    // alert("Example of toLowerCase : " + eVariableOut);
+    // alert("Example of toUpperCase : " + eVariableOut2);
+    }
+        aFunc();
+    </script>
